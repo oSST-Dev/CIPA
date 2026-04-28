@@ -19,7 +19,7 @@ Onde trocar o link do formulário:
 
 Onde trocar o e-mail:
 - No contato.html, procure por:
-  contato@seudominio.com.br
+  especialista.cipa@gmail.com
 
 Como abrir:
 1. Extraia o ZIP.
